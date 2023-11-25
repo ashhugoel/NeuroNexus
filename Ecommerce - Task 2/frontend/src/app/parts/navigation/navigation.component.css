@@ -1,0 +1,29 @@
+@font-face {
+    font-family: sans;
+    src: url(Fonts/FreeSans.ttf);
+}
+@font-face {
+    font-family: wrest;
+    src: url(Fonts/WRESTLEMANIA.ttf);
+}
+.nav-item{
+    color:rgb(255, 255, 255);
+    font-family: sans;
+    font-style: thick;
+    font-size:17px;
+
+
+}
+.navbar-brand{
+    color:rgb(102, 99, 255);
+    font-style:italic;
+    font-family: wrest;
+    font-weight:normal;
+    font-size:32px;
+
+}
+.collapse{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;   
+
+}
+

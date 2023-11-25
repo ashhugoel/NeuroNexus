@@ -1,0 +1,10 @@
+.reg{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-image:image('src\assets\images\products\back\240_F_301729654_VTmh32aN2SuJOeFlcWJlmIvUgIiah1S2.jpg');
+    background-color:rgb(190, 239, 255);
+    border-style:none;
+    border-color: darkred;
+    border-radius: 45px;
+    border-top: 45px;
+    opacity: 0.7;
+}

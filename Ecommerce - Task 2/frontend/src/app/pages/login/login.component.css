@@ -1,0 +1,15 @@
+.bfg{
+   background-color:rgb(190, 239, 255);
+   background-position-x: center;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   border-radius: 45px;
+   border-top-left-radius: 2px;
+   opacity: 0.7;
+ 
+  
+  
+}
+
+.form-group{
+    text-shadow:0;
+}
